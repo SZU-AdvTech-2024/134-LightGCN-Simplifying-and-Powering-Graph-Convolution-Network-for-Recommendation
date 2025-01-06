@@ -1,16 +1,10 @@
 @inproceedings{REPO134,
     author = "He, Xiangnan and Deng, Kuan and Wang, Xiang and Li, Yan and Zhang, YongDong and Wang, Meng",
-    address = "New York, NY, USA",
     booktitle = "Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval",
-    doi = "10.1145/3397271.3401063",
-    isbn = "9781450380164",
-    keywords = "recommendation, graph neural network, embedding propagation, collaborative filtering",
-    location = "Virtual Event, China",
     numpages = "10",
     pages = "639–648",
     publisher = "Association for Computing Machinery",
     series = "SIGIR '20",
     title = "{LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation}",
-    url = "https://doi.org/10.1145/3397271.3401063",
     year = "2020"
 }
